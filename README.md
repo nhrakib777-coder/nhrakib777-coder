@@ -37,10 +37,9 @@ Node.js | Firebase | Git | GitHub
 
 ## 📊 GitHub Stats
 
-![Nur's GitHub stats](https://skillsphere-puce.vercel.app/api?username=nhrakib777-coder&hide=contribs,prs&theme=tokyonight&hide_border=true)
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhrakib777-coder&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://skillsphere-puce.vercel.app/api/top-langs/?username=nhrakib777-coder&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Langs](https://github-readme-stats.deno.dev/api/top-langs/?username=nhrakib777-coder&layout=compact&theme=tokyonight&hide_border=true&v=1)
 ---
 
 ## 🔥 GitHub Streak
