@@ -34,6 +34,21 @@ React | Next.js | HTML | CSS | Tailwind
 Node.js | Firebase | Git | GitHub
 
 ---
+📌 Featured Projects
+
+🔹 SkillSphere
+
+📚 Online learning platform built with modern technologies
+
+🔗 Live: (https://skillsphere-puce.vercel.app/)
+
+⚙️ Tech: Next.js, Firebase, Tailwind CSS
+
+✨ Features: Authentication, Course Enrollment, Profile System
+
+
+
+---
 
 ## 📊 GitHub Stats
 
@@ -58,12 +73,28 @@ Node.js | Firebase | Git | GitHub
 
 ## 🌐 Connect With Me
 
-- 📧 Email: rakibnh93@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/nrakib/
-- 📘 Facebook: https://www.facebook.com/profile.php?id=61578254147354 
-- 📸 Instagram: https://www.instagram.com/peradoxical.here?igsh=aDJudjl6ZHV3aTZ3
-- 💻 GitHub: https://github.com/nhrakib777-coder  
-
+<p align="left" style="display: flex; gap: 30px; align-items: center; flex-wrap: wrap;">
+  <!-- Email -->
+  <a href="mailto:rakibnh93@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=181717&labelColor=EA4335" alt="Email" height="32">
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/nrakib/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=181717&labelColor=0A66C2" alt="LinkedIn" height="32">
+  </a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=61578254147354" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=181717&labelColor=1877F2" alt="Facebook" height="32">
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/peradoxical.here" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=181717&labelColor=E4405F" alt="Instagram" height="32">
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/nhrakib777-coder" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white&color=181717&labelColor=171515" alt="GitHub" height="32">
+  </a>
+</p>
 ---
 
 ## ✨ Quote
