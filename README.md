@@ -1,16 +1,79 @@
-## Hi there 👋
+<!-- 🌊 HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Nur%20Hasan%20Rakib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&width=1400"/>
+</p>
 
-<!--
-**nhrakib777-coder/nhrakib777-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- ✍️ TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;React+%26+Next.js+Enthusiast;Data+Science+Learner;Always+Building+New+Projects"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👤 About Me
+
+- 🎓 Studying Computer Application Technology  
+- 🌏 From Bangladesh 🇧🇩 | Currently in China 🇨🇳  
+- 💻 Passionate about Web Development & AI  
+- 🚀 Love building real-world projects  
+- 📚 Always learning new technologies  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+JavaScript | Python | C++
+
+**Frontend:**  
+React | Next.js | HTML | CSS | Tailwind
+
+**Backend & Tools:**  
+Node.js | Firebase | Git | GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Nur's GitHub stats](https://skillsphere-puce.vercel.app/api?username=nhrakib777-coder&hide=contribs,prs&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://skillsphere-puce.vercel.app/api/top-langs/?username=nhrakib777-coder&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhrakib777-coder&theme=tokyonight&hide_border=true)
+
+---
+
+## 🚀 Projects
+
+- 📚 Library Management System (Thesis Project)  
+- 🌐 SkillSphere Learning Platform (React + Firebase)  
+- 💼 Portfolio Website  
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: rakibnh93@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/nrakib/
+- 📘 Facebook: https://www.facebook.com/profile.php?id=61578254147354 
+- 📸 Instagram: https://www.instagram.com/peradoxical.here?igsh=aDJudjl6ZHV3aTZ3
+- 💻 GitHub: https://github.com/nhrakib777-coder  
+
+---
+
+## ✨ Quote
+
+> “Code is not just logic, it’s creativity in action.”
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</p>
